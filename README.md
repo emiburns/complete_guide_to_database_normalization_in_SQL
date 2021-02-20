@@ -6,7 +6,7 @@ A Complete Guide to Database Normalization in SQL
 #### Overview
 
 Repo for Towards Data Science article [“A Complete Guide to Database
-Normalization in SQL”](xxx) by Emily Burns. Includes SQL files written
+Normalization in SQL”](https://towardsdatascience.com/a-complete-guide-to-database-normalization-in-sql-6b16544deb0) by Emily Burns. Includes SQL files written
 to demonstrate facets of relational database normalization with the
 synthetic ‘Northern\_California\_Therapists’ dataset.
 
