@@ -30,7 +30,8 @@ form
 
 **phone\_eda\_query.sql**- SQL used to look at distribution of phone
 numbers across each hospital and therapist  
-**update\_sid\_michaels.sql**- SQL used to update therapist’s location
+**update\_sid\_michaels.sql**- SQL used to update therapist’s location   
+**requested_query.sql**- SQL used to "complete company's requested data"   
 
 #### Tools
 
